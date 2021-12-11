@@ -1,6 +1,0 @@
-# 本项目介绍
-
-webbench是一个linux平台下的网站压测工具，使用fork()模拟多个客户端同时访问设定的URL。项目主页：
-
-http://home.tiscali.cz/~cz210552/webbench.html
-
