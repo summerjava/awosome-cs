@@ -1,5 +1,7 @@
 # 简历模板
 
+提供了几份优秀的简历样例供参考。
+
 优秀的简历模板资料：  
 
 - [github-ResumeSample](https://github.com/geekcompany/ResumeSample)  
