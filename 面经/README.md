@@ -16,7 +16,9 @@
 - [关于技术终面的一切](https://github.com/xiajunhust/awosome-cs/blob/main/%E9%9D%A2%E7%BB%8F/%E5%85%B3%E4%BA%8E%E6%8A%80%E6%9C%AF%E7%BB%88%E9%9D%A2%E7%9A%84%E4%B8%80%E5%88%87.md)
 - [大厂面试项目问题怎么解](https://github.com/xiajunhust/awosome-cs/blob/main/%E9%9D%A2%E7%BB%8F/%E5%A4%A7%E5%8E%82%E9%9D%A2%E8%AF%95%E9%A1%B9%E7%9B%AE%E4%BC%9A%E9%97%AE%E4%BB%80%E4%B9%88.md)
 - [大厂全真模拟面试](https://github.com/xiajunhust/awosome-cs/blob/main/%E9%9D%A2%E7%BB%8F/%E5%A4%A7%E5%8E%82%E5%85%A8%E7%9C%9F%E6%A8%A1%E6%8B%9F%E9%9D%A2%E8%AF%95.md)
-- 大厂面经
+- 大厂面经  
+  * [校招面试不完全指南](https://www.zackwu.com/posts/2020-10-05-an-incomplete-guide-to-campus-recruitment-interviews/)
+- 
 
 ---
 
