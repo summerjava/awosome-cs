@@ -113,5 +113,10 @@ http://infolab.stanford.edu/~junyang/cs145/info.html
 [Database System Implementation - CS346 Spring 2015](https://web.stanford.edu/class/cs346/2015/)
 
 
+---
 
+致力于分享干货，为每一位计算机CS学子学习道路上带来帮助。
 
+也欢迎大家关注我的公众号~
+
+![欢迎大家关注我的公众号](https://github.com/xiajunhust/awosome-cs/blob/main/QR-CODE.jpg)
