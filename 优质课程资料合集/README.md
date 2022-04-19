@@ -1,3 +1,8 @@
+# 计算机导论
+
+[计算机科学速成课[40集全/精校] - Crash Course Computer Science](https://www.bilibili.com/video/BV1EW411u7th)
+
+
 # C语言
 
 ## 浙大翁凯老师-C语言课程
