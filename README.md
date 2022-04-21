@@ -6,8 +6,8 @@ About me:
 涵盖内容：  
 - 学习规划/学习路线
 - 编程语言学习资料
-- 计算机核心课程优质网课资料（含中文/英文）
-- 简历模板
+- [计算机核心课程优质网课资料（含中文/英文）](https://github.com/xiajunhust/awosome-cs/tree/main/%E4%BC%98%E8%B4%A8%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99%E5%90%88%E9%9B%86)
+- [简历模板](https://github.com/xiajunhust/awosome-cs/tree/main/%E7%AE%80%E5%8E%86%E6%A8%A1%E6%9D%BF)
 - 比赛资料（蓝桥杯、ACM等）
 - 设计模式
 - [大厂面经合集(技术面试、技术终面秘籍、HR面试合集)](https://github.com/xiajunhust/awosome-cs/tree/main/%E9%9D%A2%E7%BB%8F)
