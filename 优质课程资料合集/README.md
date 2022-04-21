@@ -33,6 +33,10 @@ Data Structure Visualizations：
 
 [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
+## 刷题网站
+
+数据结构和算法一定要多动手实践，刷题网站推荐：  
+[牛客](https://www.nowcoder.com/exam/oj?tab=%E8%AF%AD%E6%B3%95%E7%AF%87&topicId=291&fromPut=pc_zh_n_meta1101_c)
 
 
 ## youtube DataSchool-数据结构
