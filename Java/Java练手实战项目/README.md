@@ -4,7 +4,7 @@
 
 学习框架最好的方法就是动手实现，从0实现一个简易版本的分布式框架，可以有效提高自己的编程能力和对框架的理解。
 
-[github-tinywheel]([GitHub - xiajunhust/tinywheel: 分布式框架动手实现。「徒手撸轮子」](https://github.com/xiajunhust/tinywheel))
+[GitHub - xiajunhust/tinywheel: 分布式框架动手实现。「徒手撸轮子」](https://github.com/xiajunhust/tinywheel)
 
 ![](/Users/xiajun/Library/Application%20Support/marktext/images/2022-04-29-09-45-55-image.png)
 
