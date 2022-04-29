@@ -178,6 +178,10 @@ reactor模式：
 
 ![](https://cdn.nlark.com/yuque/0/2022/png/640636/1641197838707-5d36e0ed-1a06-4204-88f7-3ed9018f4cbc.png)
 
+# Memcached  
+Memcached 是一个高性能的分布式内存对象缓存系统，用于动态Web应用以减轻数据库负载。它通过在内存中缓存数据和对象来减少读取数据库的次数，从而提供动态数据库驱动网站的速度。Memcached 基于一个存储键/值对的 hashmap。Memcached-1.4.7的代码量还是可以接受的，只有10K行左右。  
+[memcached - a distributed memory object caching system](http://memcached.org/)
+
 # buildyourownlisp-小型Lisp解释器
 
 难度：高。
@@ -198,11 +202,8 @@ reactor模式：
 
 ![](https://cdn.nlark.com/yuque/0/2022/png/640636/1641198652661-11c78c8f-def5-4cc6-9719-6514bbd9e1b9.png)
 
-网友的实现：
-
+网友的实现：  
 [GitHub - NessOffice/Lisp_on_C: An implementation of BuildYourOwnLisp](https://github.com/NessOffice/Lisp_on_C)
-
-
 
 # CJson-json解码器
 C文件只有500行。  
@@ -225,6 +226,12 @@ http://antirez.com/news/108
 [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
 
 ![](https://cdn.nlark.com/yuque/0/2022/png/640636/1641200814656-e116c8fe-f787-48f4-8c02-15aac4a46291.png)
+
+# db_tutorial-从0到1写数据库  
+[github-db-tutorial](https://github.com/cstack/db_tutorial)
+
+# smartdns-一个本地DNS服务器  
+[github-smartdns](https://github.com/pymumu/smartdns)
 
 # ffmpeg-视频播放
 
