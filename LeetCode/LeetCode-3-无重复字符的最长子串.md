@@ -43,8 +43,8 @@ import java.util.Map;
 
 /**
  *
- * @author xiajun
- * @version : LongestSubString.java, v 0.1 2022年05月15日 2:48 PM xiajun Exp $
+ * @author summer
+ * @version : LongestSubString.java, v 0.1 2022年05月15日 2:48 PM summer Exp $
  */
 public class LongestSubString {
     /**
