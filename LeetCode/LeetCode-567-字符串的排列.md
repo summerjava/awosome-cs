@@ -1,6 +1,6 @@
 # 题目
 
-[力扣]([力扣](https://leetcode.cn/problems/permutation-in-string/))
+[力扣](https://leetcode.cn/problems/permutation-in-string/)
 
 题目介绍：
 
