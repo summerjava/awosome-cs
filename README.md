@@ -15,6 +15,8 @@ About me:
 
 致力于分享干货，为每一位计算机CS学子学习道路上带来帮助。
 
+<b>1V1计算机入门学习路线规划/转码学习/答疑辅导/求职面试辅导。</b>
+
 也欢迎大家关注我的公众号[编程学习指南]~
 
 ![欢迎大家关注我的公众号](https://github.com/xiajunhust/awosome-cs/blob/main/QR-CODE.jpg)
