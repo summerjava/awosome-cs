@@ -24,6 +24,11 @@ github star 23.3k。
 
 [GitHub - qiurunze123/miaosha: ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓](https://github.com/qiurunze123/miaosha)![](https://cdn.nlark.com/yuque/0/2022/png/640636/1641631850285-77534cb7-a0d9-4273-a79b-ad085b28b92a.png)
 
+## 秒杀系统-2  
+[一套完整的秒杀系统](https://github.com/daydreamdev/seconds-kill)。  
+基于 Springboot + Redis + Kafka 的秒杀系统，乐观锁 + 缓存 + 限流 + 异步，TPS 从 500 优化到 3000.
+
+
 ## vhr-人力资源管理系统
 
 项目采用springboot+vue开发，github star 23.1k。
