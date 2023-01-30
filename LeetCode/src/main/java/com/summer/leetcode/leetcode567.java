@@ -1,47 +1,12 @@
-# 题目
-
-[力扣](https://leetcode.cn/problems/permutation-in-string/)
-
-题目介绍：
-
-给你两个字符串 s1 和 s2 ，写一个函数来判断 s2 是否包含 s1 的排列。如果是，返回 true ；否则，返回 false 。
-
-换句话说，s1 的排列之一是 s2 的 子串 。
-
- 
-
-示例 1：
-
-输入：s1 = "ab" s2 = "eidbaooo"
-输出：true
-解释：s2 包含 s1 的排列之一 ("ba").
-示例 2：
-
-输入：s1= "ab" s2 = "eidboaoo"
-输出：false
- 
-
-提示：
-
-1 <= s1.length, s2.length <= 104
-s1 和 s2 仅包含小写字母
-
-# 解题代码
-
-java代码：
-
-```java
+package com.summer.leetcode;
 
 import java.util.HashMap;
 import java.util.Map;
 
 /**
- *
- * @author summer
- * @version : checkInclusion567.java, v 0.1 2022年05月21日 3:54 PM summer Exp $
+ * https://leetcode.cn/problems/permutation-in-string/
  */
-public class checkInclusion567 {
-
+public class leetcode567 {
     /**
      * 判断 s2 是否包含 s1 的排列。如果是，返回 true ；否则，返回 false 。
      *
@@ -165,4 +130,3 @@ public class checkInclusion567 {
         System.out.println(result);
     }
 }
-```
