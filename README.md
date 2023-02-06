@@ -20,3 +20,6 @@ About me:
 也欢迎大家关注我的公众号[编程学习指南]~
 
 ![欢迎大家关注我的公众号](https://github.com/xiajunhust/awosome-cs/blob/main/QR-CODE.jpg)
+
+
+![个人wx](https://github.com/summerjava/awosome-cs/blob/main/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpg)
