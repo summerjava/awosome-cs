@@ -11,7 +11,7 @@ About me:
 - 编程语言学习资料（含书籍视频、课程设计）
 - [计算机核心课程优质网课资料（含中文/英文）](https://github.com/xiajunhust/awosome-cs/tree/main/%E4%BC%98%E8%B4%A8%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99%E5%90%88%E9%9B%86)
 - 实战项目
-- 业界互联网大厂代码规范
+- [业界互联网大厂代码规范](https://github.com/summerjava/awosome-cs/tree/main/%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83)
 - [简历模板](https://github.com/xiajunhust/awosome-cs/tree/main/%E7%AE%80%E5%8E%86%E6%A8%A1%E6%9D%BF)
 - 比赛资料（蓝桥杯、ACM等）
 - 设计模式

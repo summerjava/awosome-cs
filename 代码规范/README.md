@@ -1,11 +1,11 @@
 # 代码规范/开发手册
 
-- [Java开发手册(黄山版).pdf]()
-- [Google Java编程风格指南.docx]()
-- [华为C语言编程规范.pdf]()
-- [Google C++ Style Guide]()
+- [Java开发手册(黄山版).pdf](https://github.com/summerjava/awosome-cs/blob/main/%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83/Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C(%E9%BB%84%E5%B1%B1%E7%89%88).pdf)
+- [Google Java编程风格指南.docx](https://github.com/summerjava/awosome-cs/blob/main/%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83/Google%20Java%E7%BC%96%E7%A8%8B%E9%A3%8E%E6%A0%BC%E6%8C%87%E5%8D%97.docx)
+- [华为C语言编程规范.pdf](https://github.com/summerjava/awosome-cs/blob/main/%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83/%E5%8D%8E%E4%B8%BAC%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A8%8B%E8%A7%84%E8%8C%83.pdf)
+- [Google C++ Style Guide](https://github.com/summerjava/awosome-cs/blob/main/%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83/Google%20C%2B%2B%20Style%20Guide.pdf)
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
-- [Google开源项目风格指南]()
+- [Google开源项目风格指南](https://github.com/summerjava/awosome-cs/blob/main/%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83/Google%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E9%A3%8E%E6%A0%BC%E6%8C%87%E5%8D%97-20220529.pdf)
 - [Google Go style guide](https://google.github.io/styleguide/go/guide)
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 - [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html)
