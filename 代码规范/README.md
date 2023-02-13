@@ -1,0 +1,16 @@
+# 代码规范/开发手册
+
+- [Java开发手册(黄山版).pdf]()
+- [Google Java编程风格指南.docx]()
+- [华为C语言编程规范.pdf]()
+- [Google C++ Style Guide]()
+- [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+- [Google开源项目风格指南]()
+- [Google Go style guide](https://google.github.io/styleguide/go/guide)
+- [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+- [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html)
+- [Google Swift Style Guide](https://google.github.io/swift/)
+- [Google Vimscript Style Guide](https://google.github.io/styleguide/vimscriptguide.xml)
+- [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+- [Google’s R Style Guide](https://google.github.io/styleguide/Rguide.html)
+- [Google Shell Style Guide](https://google.github.io/styleguide/shellguide.html)
