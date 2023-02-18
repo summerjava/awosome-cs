@@ -13,7 +13,7 @@ About me:
 - 实战项目
 - [业界互联网大厂代码规范](https://github.com/summerjava/awosome-cs/tree/main/%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83)
 - [简历模板](https://github.com/xiajunhust/awosome-cs/tree/main/%E7%AE%80%E5%8E%86%E6%A8%A1%E6%9D%BF)
-- 比赛资料（蓝桥杯、ACM等）
+- [比赛资料（蓝桥杯、ACM等）](https://github.com/summerjava/awosome-cs/tree/main/%E6%AF%94%E8%B5%9B)
 - 设计模式
 - [大厂面经合集(技术面试、技术终面秘籍、HR面试合集)](https://github.com/xiajunhust/awosome-cs/tree/main/%E9%9D%A2%E7%BB%8F)
 - [大厂全真模拟面试](https://github.com/xiajunhust/awosome-cs/blob/main/%E9%9D%A2%E7%BB%8F/%E5%A4%A7%E5%8E%82%E5%85%A8%E7%9C%9F%E6%A8%A1%E6%8B%9F%E9%9D%A2%E8%AF%95.md)
