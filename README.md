@@ -9,6 +9,7 @@ About me:
 
 - [学习规划/学习路线](https://github.com/summerjava/awosome-cs/blob/main/%E7%A1%AC%E6%A0%B8-%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%9B%9B%E5%B9%B4%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92.md)
 - 编程语言学习资料（含书籍视频、课程设计）
+- [刷题平台及资料](https://github.com/summerjava/awosome-cs/tree/main/LeetCode)
 - [计算机核心课程优质网课资料（含中文/英文）](https://github.com/xiajunhust/awosome-cs/tree/main/%E4%BC%98%E8%B4%A8%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99%E5%90%88%E9%9B%86)
 - 实战项目
 - [业界互联网大厂代码规范](https://github.com/summerjava/awosome-cs/tree/main/%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83)
